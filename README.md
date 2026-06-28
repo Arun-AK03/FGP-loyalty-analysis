@@ -59,7 +59,7 @@ Significant predictors (highlighted): being **female**, **owning a car**, and hi
 
 **Variance Inflation Factor** — all values below 5, so multicollinearity is not a concern.
 
-![VIF](images/vif.png)
+![VIF](images/VIF.png)
 
 **Correlation matrix**
 
