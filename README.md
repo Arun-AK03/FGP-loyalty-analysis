@@ -32,16 +32,16 @@ FGP is a loyalty program shared by three independent merchants — a **F**ast-fo
 ### Churn model performance
 The logistic regression separates active from churned customers well, with an **AUC ≈ 0.90**.
 
-![ROC curve](images/roc_curve.png)
+![ROC curve](images/ROC_Curve.png)
 
 Overall classification accuracy is ~88%. Notably, the model is much stronger at identifying customers who *stay* (95%) than those who *churn* (64%) — a useful caveat for how it should be used in practice.
 
-![Classification table](images/classification_table.png)
+![Classification table](images/Classification_Table.png)
 
 ### Key churn drivers
 Significant predictors (highlighted): being **female**, **owning a car**, and higher **program satisfaction** and **Net Promoter** scores all raise the odds of staying; **City D** residents and customers with more **2018 redemptions** are more likely to churn.
 
-![Logistic regression coefficients](images/logistic_regression_coefficients.png)
+![Logistic regression coefficients](images/Logistics_Regression.png)
 
 ### Segmentation & value
 <!-- ADD THESE: export from the workbook and drop into /images, then uncomment -->
@@ -55,7 +55,7 @@ Significant predictors (highlighted): being **female**, **owning a car**, and hi
 
 **Model fit**
 
-![Model fit statistics](images/model_fit_statistics.png)
+![Model fit statistics](images/LL_Statistics.png)
 
 **Variance Inflation Factor** — all values below 5, so multicollinearity is not a concern.
 
@@ -63,7 +63,7 @@ Significant predictors (highlighted): being **female**, **owning a car**, and hi
 
 **Correlation matrix**
 
-![Correlation matrix](images/correlation_matrix.png)
+![Correlation matrix](images/Correlation_Result.png)
 
 </details>
 
