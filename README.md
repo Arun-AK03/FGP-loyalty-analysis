@@ -84,7 +84,7 @@ Microsoft Excel (with a statistical add-in for logistic regression and diagnosti
 
 ## My role
 <!-- Be specific and honest, e.g.: "Led the churn modelling and segmentation; built the regression, VIF, and CLV sheets; co-wrote the final report." Adjust to what you actually did. -->
-Part of a 5-person team. I [describe your specific contributions here].
+Part of a 5-person team. I help the team with build the excel and the excel analysis.
 
 ## Author
 **Arun Kumar Selvaraj** — MSc Business Data Science & Decisions, UNSW
